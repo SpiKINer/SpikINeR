@@ -23,8 +23,23 @@ You can try SpikINeR on [google colab](https://colab.research.google.com/drive/1
 
 # <img src="https://www.bestundertaking.net:81/images/videoLogo.gif" width ="25"> <b>Below are some images and videos as qualitative results</b>   
 
+
+<p align="center">
+<img src="https://github.com/SpiKINer/SpikINeR/blob/main/vids/train-spikINer.gif" height="300" />
+</p>
+<p align="center">
+Video quality may be degraded by GIF format compression
+</p>
+
+<p align="center">
+---------------------------------------------------------------------------------
+</p>
 <p align="center">
 <img src="https://github.com/SpiKINer/SpikINeR/blob/main/imgs/spikiner_train.png" height="300" />
+</p>
+
+<p align="center">
+Comparative images
 </p>
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>And some tables with quantitative results</b>
