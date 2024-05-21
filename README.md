@@ -21,7 +21,6 @@ You can try SpikINeR on [google colab](https://colab.research.google.com/drive/1
 
 
 
-
 # <img src="https://www.bestundertaking.net:81/images/videoLogo.gif" width ="25"> <b>Below are some images and videos as qualitative results</b>   
 
 <p align="center">
