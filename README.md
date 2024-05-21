@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is the official repository of SpikINeR </h1>
 
 <p align="center">
-<img src="https://github.com/RodrigoGantier/SpikINeR/blob/main/imgs/SpiKINer.png" height="200" />
+<img src="https://github.com/SpiKINer/SpikINeR/blob/main/imgs/SpiKINer.png" height="200" />
 </p>
 
 <h3 align="center">SpikINeR: Video Reconstruction for Spiking Cameras with Implicit Neural Representations</h3>
@@ -13,7 +13,7 @@ Spikiner is a Pipe Line that uses Implicit Neural Representations (INR) for the 
 
 
 <p align="center">
-<img src="https://github.com/RodrigoGantier/SpikINeR/blob/main/imgs/SpikINeR.png" height="200" />
+<img src="https://github.com/SpiKINer/SpikINeR/blob/main/imgs/SpikINeR_t.png" height="200" />
 </p>
 
 You can try SpikINeR on [google colab](https://colab.research.google.com/drive/1y3S9V3smWDdXoCqh_7dRofaONx0TS79E?usp=sharing) 
@@ -25,13 +25,13 @@ You can try SpikINeR on [google colab](https://colab.research.google.com/drive/1
 # <img src="https://www.bestundertaking.net:81/images/videoLogo.gif" width ="25"> <b>Below are some images and videos as qualitative results</b>   
 
 <p align="center">
-<img src="https://github.com/RodrigoGantier/SpikINeR/blob/main/imgs/spikiner_train.png" height="300" />
+<img src="https://github.com/SpiKINer/SpikINeR/blob/main/imgs/spikiner_train.png" height="300" />
 </p>
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>And some tables with quantitative results</b>
 
 <p align="center">
-<img src="https://github.com/RodrigoGantier/SpikINeR/blob/main/imgs/table.png" height="300" />
+<img src="https://github.com/SpiKINer/SpikINeR/blob/main/imgs/table.png" height="300" />
 </p>
 
 
