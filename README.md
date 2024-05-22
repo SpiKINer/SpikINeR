@@ -30,6 +30,12 @@ You can try SpikINeR on [Google Golab](https://colab.research.google.com/drive/1
 <p align="center">
 <img src="https://github.com/SpiKINer/SpikINeR/blob/main/vids/train-spikINer.gif" height="300" />
 </p>
+
+</p>
+<p align="center">
+<img src="https://github.com/SpiKINer/SpikINeR/blob/main/vids/train_all_720.gif" height="600" />
+</p>
+
 <p align="center">
 Video quality may be degraded by GIF format compression.
 </p>
@@ -43,8 +49,11 @@ More qualitative results can be found in the [vids](https://github.com/SpiKINer/
 <img src="https://github.com/SpiKINer/SpikINeR/blob/main/imgs/spikiner_train.png" height="300" />
 </p>
 
+
+
+
 <p align="center">
-Comparative images
+Comparative images, SpikINeR reconstructs video without blur.
 </p>
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>And some tables with quantitative results</b>
