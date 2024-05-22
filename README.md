@@ -8,8 +8,15 @@
   
 Spikiner is a Pipeline that uses Implicit Neural Representations (INR) to reconstruct the video of spiking cameras.
 
+<h1 align="center"> How can I run the code?</h1>
+
+
 You can try SpikINeR on [Google Colab](https://colab.research.google.com/drive/1y3S9V3smWDdXoCqh_7dRofaONx0TS79E?usp=sharing) 
 [<img src="https://img.shields.io/badge/-colab-05122A?style=flat&logo=googlecolab"/>](https://colab.research.google.com/drive/1y3S9V3smWDdXoCqh_7dRofaONx0TS79E?usp=sharing)
+
+
+You don't need to install anything on your local computer, just make sure you run all the cells.
+
 
 
 ## <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25"> <b>There is an image that illustrates how SpikINeR is trained, with a Multi Layer Perceptron (MLP) end spking camera data.</b>
