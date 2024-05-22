@@ -8,7 +8,7 @@
   
 Spikiner is a Pipeline that uses Implicit Neural Representations (INR) to reconstruct the video of spiking cameras.
 
-You can try SpikINeR on [Google Golab](https://colab.research.google.com/drive/1y3S9V3smWDdXoCqh_7dRofaONx0TS79E?usp=sharing) 
+You can try SpikINeR on [Google Colab](https://colab.research.google.com/drive/1y3S9V3smWDdXoCqh_7dRofaONx0TS79E?usp=sharing) 
 [<img src="https://img.shields.io/badge/-colab-05122A?style=flat&logo=googlecolab"/>](https://colab.research.google.com/drive/1y3S9V3smWDdXoCqh_7dRofaONx0TS79E?usp=sharing)
 
 
