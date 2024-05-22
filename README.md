@@ -37,7 +37,7 @@ You can try SpikINeR on [Google Colab](https://colab.research.google.com/drive/1
 </p>
 
 <p align="center">
-Video quality may be degraded by GIF format compression.
+Video quality may be degraded by GIF format compression
 </p>
 
 
